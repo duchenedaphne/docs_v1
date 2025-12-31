@@ -15,3 +15,4 @@ You can view it [here](https://duchenedaphne.github.io/docs_v1).
 ## ✍️ Author
 
 Duchêne Daphné
+
